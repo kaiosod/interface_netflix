@@ -4,4 +4,4 @@ Interface do Netflix clonado usando  HTML, CSS, JavaScript e Jquery.
 
 https://kaiosod.github.io/interface_instagram/login.html
 
-![Foto_do_projeto](img/Captura de tela de 2021-08-05 19-42-41.png)
+![Foto_do_projeto](https://github.com/kaiosod/interface_netflix/blob/master/img/Captura%20de%20tela%20de%202021-08-05%2019-42-41.png)
